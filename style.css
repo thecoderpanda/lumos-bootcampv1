@@ -4,11 +4,11 @@ body {
 }
 
 h1 {
-    color: black;
+    color: rgb(179, 137, 137);
 }
 
 p{ 
-    color: green;
+    color: rgb(119, 170, 24);
 }
 
 button{
@@ -16,5 +16,5 @@ button{
     background-color: blue;
     color: white;
     border: none;
-    cursor: grab;
+    cursor: pointer;
 }
