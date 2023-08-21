@@ -1,0 +1,20 @@
+body {
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: black;
+}
+
+p{ 
+    color: green;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: grab;
+}
